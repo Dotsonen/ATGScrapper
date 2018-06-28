@@ -1,0 +1,10 @@
+StartMethod,StartNumber,Odds,Track,Firstprize,Distance,Front,Back,Driver,LastPlace,LastStart,Season,TrackCondition,Place
+auto,7,690,Jägersro,2500000,1640,false,false,Unt Pe,0,0,SUMMER,light,1
+auto,8,260,Halmstad,10000000,2140,false,false,Unt Pe,1,16,SUMMER,light,1
+auto,9,180,Jägersro,8000000,2140,false,false,Unt Jo,1,19,SUMMER,light,5
+auto,2,240,Solvalla,5000000,2140,false,false,Unt Pe,5,22,SUMMER,light,1
+volte,2,190,Jägersro,10000000,2160,false,false,Unt Pe,1,17,AUTUMN,light,1
+auto,1,190,Bollnäs,11000000,2140,false,false,Unt Pe,1,14,AUTUMN,light,1
+auto,6,190,Solvalla,20000000,2140,false,false,Unt Pe,1,14,AUTUMN,light,1
+auto,9,170,Jägersro,12500000,2140,false,true,Unt Pe,1,28,AUTUMN,light,2
+auto,7,430,Solvalla,22000000,2140,false,false,Unt Pe,2,28,AUTUMN,light,5

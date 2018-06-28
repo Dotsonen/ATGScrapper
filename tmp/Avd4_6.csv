@@ -1,0 +1,14 @@
+StartMethod,StartNumber,Odds,Track,Firstprize,Distance,Front,Back,Driver,LastPlace,LastStart,Season,TrackCondition,Place
+volte,2,1770,Eskilstuna,2000000,2140,true,true,Wes Jö,5,47,SUMMER,light,3
+volte,1,430,Rättvik,2500000,2140,true,true,Wes Jö,3,17,SUMMER,light,7
+auto,12,13640,Solvalla,3000000,2140,true,true,Nor PG,7,55,AUTUMN,light,7
+volte,2,460,Solvalla,4000000,2140,true,true,Adi Er,16,15,AUTUMN,light,1
+auto,4,270,Solvalla,3000000,1640,true,true,Adi Er,1,16,AUTUMN,light,4
+auto,8,4850,Solvalla,4000000,2140,true,true,Kon Jo,4,19,AUTUMN,light,7
+auto,1,500,Mantorp,5000000,1640,true,true,Kon Jo,7,12,WINTER,light,4
+volte,3,3540,Solvalla,6000000,2140,true,true,Kon Jo,4,29,WINTER,light,2
+auto,13,480,Gävle,3000000,2140,true,true,Kon Jo,2,10,WINTER,light,2
+auto,1,250,Solvalla,3000000,2140,true,true,Eri Ma,2,12,WINTER,dead,1
+auto,1,920,Solvalla,4000000,2140,true,true,Nor PG,1,10,WINTER,light,5
+auto,10,1580,Solvalla,4000000,1640,true,true,Kon Jo,5,18,WINTER,light,7
+auto,11,2180,Eskilstuna,12500000,1640,false,false,Wid Ka,7,10,SPRING,light,3

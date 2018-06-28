@@ -1,0 +1,3 @@
+StartMethod,StartNumber,Odds,Track,Firstprize,Distance,Front,Back,Driver,LastPlace,LastStart,Season,TrackCondition,Place
+auto,5,730,Halmstad,3500000,1640,true,true,Paa Wi,0,0,WINTER,light,3
+volte,3,760,Halmstad,12500000,2640,false,false,Paa Wi,3,13,SPRING,light,2

@@ -1,0 +1,27 @@
+StartMethod,StartNumber,Odds,Track,Firstprize,Distance,Front,Back,Driver,LastPlace,LastStart,Season,TrackCondition,Place
+auto,6,1490,Mantorp,2500000,2140,true,false,Cek Ed,0,0,AUTUMN,light,5
+auto,7,4090,Halmstad,3500000,2140,true,true,Cek Ed,5,11,AUTUMN,light,7
+auto,7,5250,Halmstad,2000000,2140,true,true,Cek Ed,7,21,AUTUMN,light,7
+auto,10,2690,Mantorp,3500000,1640,true,true,Cek Ar,7,77,WINTER,light,1
+auto,9,780,Åby,6000000,1640,true,true,Uhr Th,1,16,WINTER,light,7
+auto,4,880,Halmstad,3500000,1640,false,false,Cek Ar,7,18,SPRING,light,7
+auto,6,1440,Örebro,2000000,2100,false,false,Kon Jo,7,24,SPRING,light,3
+auto,4,1420,Jägersro,3000000,1640,false,true,Uhr Th,3,12,SPRING,light,2
+auto,6,310,Halmstad,4000000,1640,false,false,Uhr Th,2,20,SPRING,light,7
+volte,5,1530,Åby,2500000,2660,true,true,Uhr Th,7,10,SPRING,light,2
+auto,9,550,Åby,3500000,1640,true,true,Goo Bj,2,14,SUMMER,light,7
+auto,3,810,Tingsryd,2000000,1609,false,true,Cek Ar,7,16,SUMMER,light,7
+auto,2,1570,Örebro,2500000,2100,false,true,Kon Jo,7,33,SUMMER,light,2
+auto,10,280,Jägersro,3000000,2640,false,true,Ive Jo,2,26,SUMMER,light,4
+volte,4,1320,Åby,6000000,2180,false,false,Ing Pe,4,15,SUMMER,dead,2
+volte,7,900,Jägersro,7000000,2660,false,true,Ing Pe,2,14,AUTUMN,light,4
+auto,15,710,Axevalla,2000000,2140,false,true,Cek Ed,4,16,AUTUMN,light,3
+auto,3,520,Jägersro,3000000,1640,false,false,Uhr Th,3,25,AUTUMN,dead,1
+auto,10,1300,Åby,7000000,3140,true,true,Uhr Th,16,20,AUTUMN,light,6
+volte,5,380,Halmstad,2500000,2180,true,true,Ing Pe,6,12,WINTER,light,2
+volte,4,500,Åby,5000000,2180,true,true,Ing Pe,2,17,WINTER,light,2
+auto,2,590,Åby,7000000,2140,true,true,Ing Pe,2,13,WINTER,light,3
+auto,7,190,Mantorp,3500000,2140,true,true,Kon Jo,3,12,WINTER,light,1
+auto,5,300,Åby,3500000,1640,true,true,Ing Pe,1,10,WINTER,light,1
+auto,2,370,Örebro,3500000,2100,true,true,Kon Jo,1,14,WINTER,light,2
+auto,3,270,Åby,7000000,1640,true,true,Ing Pe,2,13,WINTER,light,3

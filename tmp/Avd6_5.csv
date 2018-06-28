@@ -1,0 +1,21 @@
+StartMethod,StartNumber,Odds,Track,Firstprize,Distance,Front,Back,Driver,LastPlace,LastStart,Season,TrackCondition,Place
+volte,2,180,Solvalla,3000000,2140,true,true,Kon Jo,16,63,WINTER,light,1
+auto,10,140,Solvalla,3000000,2140,true,true,Kon Jo,1,14,WINTER,light,1
+auto,9,140,Mantorp,1500000,2140,true,true,Ohl Ul,1,67,SPRING,light,1
+auto,13,160,Färjestad,2000000,2140,true,true,Kon Jo,1,14,SPRING,light,1
+volte,1,160,Örebro,10000000,2640,true,true,Kon Jo,1,12,SPRING,light,1
+auto,8,280,Åby,10000000,2640,true,true,Goo Bj,1,7,SPRING,light,7
+volte,12,300,Kalmar,10000000,2140,true,false,Adi Er,7,43,SUMMER,light,2
+volte,12,350,Halmstad,10000000,2140,true,false,Kon Jo,2,11,SUMMER,light,7
+auto,8,5350,Eskilstuna,30000000,2640,true,false,Eri Ul,7,13,SUMMER,light,4
+auto,3,1680,Mantorp,7000000,2140,true,false,Adi Er,4,12,SUMMER,light,3
+auto,5,600,Jägersro,20000000,2640,false,false,Kon Jo,3,23,SUMMER,light,7
+auto,8,400,Skellefteå,10000000,2140,false,false,Kon Jo,7,45,AUTUMN,light,1
+auto,7,1400,Solvalla,10000000,2140,false,false,Kon Jo,1,15,AUTUMN,dead,3
+auto,10,2480,Eskilstuna,80000000,2140,false,false,Ohl Ul,3,14,AUTUMN,light,7
+auto,1,340,Solvalla,20000000,2140,false,false,Goo Bj,7,20,AUTUMN,light,5
+auto,9,820,Solvalla,6000000,1640,true,true,Kon Jo,5,340,AUTUMN,light,2
+auto,6,400,Bergsåker,12500000,1640,true,true,Kon Jo,2,66,WINTER,light,7
+auto,4,430,Kalmar,12500000,1640,true,true,Ohl Ul,7,21,WINTER,light,1
+auto,12,350,Solvalla,25000000,2140,true,true,Ohl Ul,1,14,WINTER,light,6
+auto,4,320,Halmstad,12500000,1640,true,true,Kon Jo,6,21,SPRING,light,7

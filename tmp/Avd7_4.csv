@@ -1,0 +1,22 @@
+StartMethod,StartNumber,Odds,Track,Firstprize,Distance,Front,Back,Driver,LastPlace,LastStart,Season,TrackCondition,Place
+volte,1,550,Halmstad,1500000,2140,true,true,Per St,6,13,AUTUMN,light,1
+volte,7,1620,Jägersro,2000000,2140,true,true,Per St,1,71,WINTER,light,8
+volte,2,170,Jägersro,3000000,2140,true,true,Per St,8,36,WINTER,light,1
+volte,2,960,Axevalla,2500000,2140,true,true,Osc Ke,1,17,WINTER,light,7
+auto,10,1100,Jägersro,2000000,2140,true,true,Per St,7,10,WINTER,light,2
+auto,8,300,Halmstad,2000000,2640,true,false,Lar He,16,35,SPRING,light,1
+auto,8,770,Vaggeryd,3000000,2640,true,false,Osc Ke,1,13,SPRING,light,4
+auto,2,800,Tingsryd,3000000,1609,true,false,Per St,16,49,SUMMER,light,2
+auto,9,1760,Axevalla,5000000,2140,true,false,Per St,2,12,SUMMER,light,4
+auto,8,310,Åby,3000000,1640,true,false,Osc Ke,4,21,SUMMER,light,5
+auto,3,210,Halmstad,3000000,2640,true,false,Osc Ke,5,17,SUMMER,light,1
+auto,8,330,Vaggeryd,1500000,2640,true,false,Osc Ke,1,13,AUTUMN,light,1
+auto,7,390,Kalmar,2000000,2640,true,false,Per St,1,26,AUTUMN,light,2
+auto,9,620,Örebro,10000000,2100,true,false,Osc Ke,2,15,AUTUMN,light,1
+auto,7,1450,Solvalla,20000000,2140,true,false,Osc Ke,1,35,AUTUMN,light,7
+auto,9,520,Jägersro,10000000,2140,true,true,Per St,7,7,WINTER,light,3
+volte,3,460,Åby,10000000,2640,true,true,Per St,3,7,WINTER,light,6
+auto,8,690,Åby,10000000,2640,true,true,Osc Ke,6,19,WINTER,light,7
+auto,7,390,Kalmar,12500000,2140,true,true,Lar He,7,30,WINTER,light,1
+auto,11,350,Axevalla,12500000,2140,true,true,Lar He,1,21,WINTER,light,4
+volte,1,1800,Halmstad,12500000,2640,true,true,Osc Ke,4,14,SPRING,light,7

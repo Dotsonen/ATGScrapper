@@ -1,0 +1,11 @@
+StartMethod,StartNumber,Odds,Track,Firstprize,Distance,Front,Back,Driver,LastPlace,LastStart,Season,TrackCondition,Place
+volte,8,3500,Halmstad,1500000,2140,true,true,Sjö PH,16,28,SPRING,dead,1
+volte,4,2130,Halmstad,1500000,2160,true,true,Sjö PH,16,14,SPRING,light,2
+volte,5,580,Halmstad,1500000,2160,true,true,Sjö PH,2,28,SPRING,light,7
+volte,3,1290,Halmstad,3000000,2140,true,true,Arn Pe,16,15,AUTUMN,light,5
+auto,10,250,Åby,1000000,2140,true,true,Arn Pe,5,13,AUTUMN,dead,2
+volte,5,430,Åby,2500000,2640,true,true,Arn Pe,2,11,AUTUMN,light,1
+volte,5,400,Åby,3000000,2140,true,true,Arn Pe,1,14,AUTUMN,dead,7
+volte,8,220,Åby,3000000,2640,true,true,Arn Pe,7,21,WINTER,light,1
+volte,5,430,Åby,5000000,2140,true,true,Arn Pe,1,14,WINTER,light,1
+auto,5,240,Kalmar,3000000,2640,true,true,Arn Pe,1,15,WINTER,light,3

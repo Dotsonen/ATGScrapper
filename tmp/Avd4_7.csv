@@ -1,0 +1,11 @@
+StartMethod,StartNumber,Odds,Track,Firstprize,Distance,Front,Back,Driver,LastPlace,LastStart,Season,TrackCondition,Place
+volte,3,4320,Solvalla,3000000,2140,true,true,Sch Ma,16,27,SUMMER,light,6
+auto,1,2850,Solvalla,2000000,2140,true,true,Sch Ma,6,20,SUMMER,light,3
+volte,3,1040,Solvalla,3000000,2140,true,true,Wid Ka,3,8,SUMMER,light,4
+auto,4,2540,Solvalla,2000000,2140,true,true,Sch Ma,4,73,AUTUMN,light,7
+auto,1,1250,Solvalla,2000000,2140,true,true,Mel St,7,7,AUTUMN,light,7
+volte,3,3170,Solvalla,5000000,2140,true,false,Mel St,7,12,AUTUMN,light,7
+auto,6,10800,Solvalla,4000000,2140,true,true,Eri Ul,16,15,WINTER,light,3
+auto,5,1040,Solvalla,4000000,2140,true,true,Eri Ul,3,14,WINTER,light,1
+auto,5,250,Solvalla,4000000,2140,true,true,Eri Ul,1,6,WINTER,light,1
+auto,4,250,Solvalla,3000000,2140,true,true,Abd Fa,1,22,SPRING,light,4

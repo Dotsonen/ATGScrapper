@@ -1,0 +1,11 @@
+StartMethod,StartNumber,Odds,Track,Firstprize,Distance,Front,Back,Driver,LastPlace,LastStart,Season,TrackCondition,Place
+auto,2,460,Jägersro,2500000,2140,true,true,Löv Jo,4,15,AUTUMN,light,6
+volte,3,430,Jägersro,2500000,2140,true,true,Löv Jo,6,18,AUTUMN,light,3
+volte,6,180,Jägersro,2000000,2140,true,false,Löv Jo,3,14,AUTUMN,light,1
+volte,11,170,Jägersro,2000000,2140,true,true,Löv Jo,1,21,AUTUMN,dead,1
+volte,1,150,Jägersro,3000000,2160,true,false,Löv Jo,16,18,AUTUMN,light,1
+volte,6,180,Jägersro,2000000,2160,true,true,Löv Jo,1,7,WINTER,light,1
+auto,6,130,Jägersro,3000000,2140,true,true,Ing Pe,1,22,WINTER,light,7
+volte,2,560,Åby,7000000,2140,true,true,Löv Jo,7,28,WINTER,light,2
+volte,4,210,Halmstad,3500000,2140,true,true,Löv Jo,2,25,WINTER,light,1
+auto,7,310,Jägersro,5000000,2640,true,true,Löv Jo,1,16,SPRING,light,1

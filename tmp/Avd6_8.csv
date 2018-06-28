@@ -1,0 +1,26 @@
+StartMethod,StartNumber,Odds,Track,Firstprize,Distance,Front,Back,Driver,LastPlace,LastStart,Season,TrackCondition,Place
+volte,3,340,Halmstad,1500000,2660,true,true,Goo Bj,2,21,SPRING,light,1
+volte,5,130,Mantorp,1500000,2160,true,true,Goo Bj,1,14,SPRING,light,1
+volte,5,150,Årjäng,3000000,2140,true,true,Goo Bj,1,8,SPRING,light,1
+volte,1,140,Åby,3000000,2640,true,true,Goo Bj,1,16,SPRING,light,2
+auto,3,200,Axevalla,3000000,2140,true,true,Goo Bj,2,106,AUTUMN,light,1
+volte,4,180,Mantorp,2000000,2160,true,true,Jep CJ,1,149,WINTER,dead,1
+volte,3,300,Mantorp,10000000,2140,true,true,Ohl Ul,1,21,WINTER,light,2
+auto,1,310,Vaggeryd,3500000,2140,false,false,Söd St,2,62,SPRING,light,3
+auto,12,2380,Solvalla,20000000,2140,false,false,Sva Åk,3,27,SPRING,light,6
+auto,4,130,Axevalla,2000000,2140,false,false,Ohl Ul,6,22,SUMMER,light,1
+auto,4,150,Årjäng,3000000,2140,false,false,Ohl Ul,1,28,SUMMER,light,1
+auto,6,590,Rättvik,10000000,1640,false,false,Ohl Ul,1,20,SUMMER,light,1
+auto,4,120,Örebro,3000000,1609,false,false,Ohl Ul,1,13,SUMMER,light,1
+auto,1,150,Axevalla,2000000,2140,false,false,Söd St,1,22,AUTUMN,light,1
+auto,4,540,Solvalla,20000000,2140,false,false,Ohl Ul,1,14,AUTUMN,light,3
+auto,4,540,Åby,3500000,2640,false,false,Söd St,16,115,SPRING,light,1
+auto,8,1710,Romme,11000000,2640,false,false,Kih Ör,1,23,SPRING,light,2
+auto,11,1300,Åby,11000000,2140,false,false,Kih Ör,2,13,SPRING,light,2
+volte,7,310,Åby,11000000,2640,false,false,Kih Ör,2,14,SPRING,light,1
+auto,7,1030,Solvalla,20000000,2140,false,false,Kih Ör,1,14,SPRING,light,7
+auto,9,170,Vaggeryd,2200000,2640,false,false,Söd St,7,46,SUMMER,light,7
+auto,10,690,Mantorp,3000000,2140,false,false,Söd St,16,53,AUTUMN,light,1
+volte,3,160,Eskilstuna,3500000,2160,false,false,Ohl Ul,1,15,AUTUMN,light,1
+auto,10,250,Färjestad,2500000,2140,false,false,Söd St,1,10,AUTUMN,light,2
+auto,6,460,Örebro,3000000,2100,true,true,Ohl Ul,16,108,SPRING,light,2

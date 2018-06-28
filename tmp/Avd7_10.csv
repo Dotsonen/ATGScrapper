@@ -1,0 +1,18 @@
+StartMethod,StartNumber,Odds,Track,Firstprize,Distance,Front,Back,Driver,LastPlace,LastStart,Season,TrackCondition,Place
+volte,7,330,Solvalla,2000000,2140,true,true,Eri Ul,4,12,WINTER,light,2
+volte,8,180,Solvalla,2000000,2140,true,true,Eri Ul,2,14,SPRING,light,1
+volte,12,190,Bergsåker,3000000,2140,true,true,Eri Ul,1,12,SPRING,light,1
+auto,12,160,Bergsåker,2000000,2140,true,true,Eri Ul,1,8,SPRING,light,1
+volte,1,770,Romme,10000000,2640,true,true,Eri Ul,1,16,SPRING,light,7
+volte,1,230,Bergsåker,3000000,2140,true,true,And OJ,7,24,SPRING,light,1
+volte,5,170,Romme,3000000,2160,true,true,Eri Ul,1,9,SPRING,light,1
+volte,1,260,Örebro,3000000,2640,true,true,Eri Ul,1,20,SUMMER,light,7
+volte,9,270,Hagmyren,3000000,2160,true,true,Eri Ul,7,122,AUTUMN,light,8
+auto,4,740,Solvalla,3500000,2140,true,true,Eri Ul,8,56,WINTER,light,3
+auto,2,310,Solvalla,3500000,1640,true,true,Eri Ul,3,14,WINTER,light,2
+volte,3,300,Solvalla,7000000,2140,true,true,Eri Ul,2,16,WINTER,dead,2
+auto,8,680,Eskilstuna,3500000,1640,true,true,Eri Ul,2,13,WINTER,light,2
+auto,2,730,Solvalla,6000000,2140,true,true,Eri Ul,2,16,WINTER,dead,2
+auto,12,360,Solvalla,6000000,2140,true,true,Eri Ul,2,14,WINTER,light,3
+auto,4,170,Solvalla,7000000,1640,true,true,Eri Ul,3,13,WINTER,light,2
+auto,1,1390,Eskilstuna,12500000,2140,true,true,Eri Ul,2,11,SPRING,light,4

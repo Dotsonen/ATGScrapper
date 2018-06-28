@@ -1,0 +1,18 @@
+StartMethod,StartNumber,Odds,Track,Firstprize,Distance,Front,Back,Driver,LastPlace,LastStart,Season,TrackCondition,Place
+volte,7,560,Bergsåker,5000000,2140,true,true,Nor PG,7,8,SUMMER,light,5
+volte,1,1670,Solvalla,2000000,2140,true,false,Nor PG,16,6,AUTUMN,light,4
+volte,9,1490,Romme,3500000,2140,true,true,Nor PG,16,14,AUTUMN,light,4
+volte,4,1660,Solvalla,3000000,2140,true,true,Nor PG,16,7,AUTUMN,light,7
+volte,3,950,Solvalla,2000000,2160,true,true,Nor PG,7,9,AUTUMN,dead,5
+volte,5,1390,Bollnäs,1500000,2160,true,false,Nor PG,5,159,SPRING,light,5
+auto,7,480,Solvalla,1000000,2140,true,true,Nor Gl,5,129,SUMMER,light,3
+volte,8,3020,Solvalla,4000000,2140,false,true,Kon Jo,16,12,AUTUMN,light,2
+auto,6,1840,Solvalla,4000000,2140,false,true,Kon Jo,2,7,AUTUMN,light,2
+volte,6,310,Solvalla,2000000,2160,false,true,Kon Jo,2,11,AUTUMN,light,6
+auto,12,830,Solvalla,3000000,2140,false,true,Nie MH,16,10,AUTUMN,light,2
+auto,1,1590,Solvalla,3500000,2640,true,true,Kon Jo,2,18,WINTER,light,3
+auto,6,320,Solvalla,4000000,2140,true,true,Nie MH,3,17,WINTER,light,1
+auto,11,500,Solvalla,4000000,2140,true,true,Nie MH,1,14,WINTER,light,2
+auto,9,540,Solvalla,4000000,2140,true,true,Kon Jo,2,14,WINTER,dead,2
+auto,3,2280,Axevalla,12500000,2640,true,true,Nie MH,2,17,WINTER,light,7
+auto,4,4070,Solvalla,20000000,2640,true,true,Nie MH,7,7,WINTER,light,3

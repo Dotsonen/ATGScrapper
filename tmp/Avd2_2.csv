@@ -1,0 +1,27 @@
+StartMethod,StartNumber,Odds,Track,Firstprize,Distance,Front,Back,Driver,LastPlace,LastStart,Season,TrackCondition,Place
+volte,7,460,Örebro,1700000,2140,true,false,Kar Pe,16,8,SUMMER,light,7
+volte,4,2660,Färjestad,2000000,2140,true,false,Dal Th,16,34,AUTUMN,light,3
+volte,7,520,Eskilstuna,2000000,2140,true,true,Kar Pe,3,15,AUTUMN,light,2
+volte,6,250,Örebro,1500000,2140,true,true,Kar Pe,2,16,AUTUMN,light,1
+volte,2,1240,Solvalla,2000000,2140,true,true,Kar Pe,1,22,WINTER,light,4
+volte,11,430,Eskilstuna,2000000,1640,true,true,Kar Pe,4,13,WINTER,light,2
+auto,11,930,Örebro,2500000,1609,true,true,Kar Pe,2,8,WINTER,light,6
+auto,1,470,Axevalla,1500000,2140,true,true,Dal Th,6,18,WINTER,light,7
+volte,6,540,Solvalla,2000000,2640,true,true,Kar Pe,7,10,WINTER,dead,2
+auto,2,470,Romme,3000000,2140,true,true,Kar Pe,2,14,WINTER,light,5
+auto,10,460,Axevalla,2000000,2140,true,true,Kar Pe,5,77,SPRING,light,1
+auto,3,340,Solvalla,3000000,2140,true,true,Ohl Ul,1,13,SPRING,light,1
+volte,2,460,Lindesberg,3000000,2160,true,true,Lin Mi,1,32,SUMMER,light,4
+auto,5,660,Vaggeryd,10000000,2140,true,true,Ohl Ul,4,8,SUMMER,light,3
+volte,3,1690,Bergsåker,20000000,2140,false,false,Ohl Ul,3,16,SUMMER,light,7
+auto,9,1000,Solvalla,3000000,2140,true,true,Ohl Ul,16,13,SUMMER,light,5
+auto,9,480,Eskilstuna,2500000,2140,true,true,Kar Pe,5,13,SUMMER,light,7
+volte,9,3580,Färjestad,3000000,2160,true,true,Ohl Ul,16,9,AUTUMN,light,5
+auto,5,210,Mantorp,1000000,2140,true,true,Lin Mi,5,9,AUTUMN,light,2
+auto,4,1320,Örebro,2000000,2100,true,true,Kon Jo,2,10,AUTUMN,light,7
+auto,3,3630,Solvalla,4000000,1640,true,true,Ohl Ul,7,13,AUTUMN,light,7
+volte,5,860,Axevalla,1000000,2180,true,true,Kar Pe,7,13,AUTUMN,light,3
+auto,2,200,Åby,3000000,2140,true,true,Hei Ve,3,24,WINTER,light,1
+auto,6,150,Axevalla,2500000,2140,true,true,Hei Ve,1,11,WINTER,light,2
+volte,3,230,Kalmar,12500000,2140,true,true,Hei Ve,2,46,WINTER,light,1
+auto,4,280,Åby,12500000,2140,false,false,Hei Ve,1,46,SPRING,light,7

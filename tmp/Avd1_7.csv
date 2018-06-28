@@ -1,0 +1,21 @@
+StartMethod,StartNumber,Odds,Track,Firstprize,Distance,Front,Back,Driver,LastPlace,LastStart,Season,TrackCondition,Place
+auto,6,880,Halmstad,2000000,2140,true,true,Kol Ad,16,28,SUMMER,light,1
+volte,2,300,Mantorp,5000000,2160,true,true,Kol Lu,1,7,SUMMER,light,4
+auto,5,1240,Solvalla,10000000,2140,true,true,Kol Lu,16,13,SUMMER,light,7
+auto,8,330,Åby,3500000,2140,true,true,Kol Ad,7,15,AUTUMN,light,1
+auto,9,370,Solvalla,10000000,2640,true,true,Kol Ad,1,13,AUTUMN,light,7
+auto,10,240,Jägersro,5000000,2140,true,true,Kol Lu,16,10,AUTUMN,light,1
+volte,4,400,Åby,2500000,2640,true,true,Kol Lu,16,9,SPRING,light,1
+volte,3,700,Halmstad,6000000,2140,true,true,Kol Ad,16,170,AUTUMN,light,7
+volte,4,870,Jägersro,7000000,3140,true,true,Kol Lu,7,16,AUTUMN,light,7
+auto,2,210,Solvalla,3000000,2640,true,true,Kol Lu,7,112,SPRING,light,1
+volte,6,170,Axevalla,3500000,2640,true,true,Tak Jo,1,54,SPRING,light,2
+auto,12,340,Åby,3000000,2640,true,true,Kol Ad,2,30,SUMMER,light,7
+volte,3,1350,Östersund,12500000,3140,true,true,And OJ,7,8,SUMMER,light,5
+auto,7,470,Jägersro,2000000,2140,true,true,Kol Ad,5,123,AUTUMN,light,1
+volte,5,370,Jägersro,10000000,3140,true,true,Kol Ad,1,18,AUTUMN,light,1
+volte,3,490,Eskilstuna,10000000,3140,true,true,Kol Ad,1,15,AUTUMN,light,4
+volte,3,260,Jägersro,6000000,3140,true,true,Kol Lu,16,11,WINTER,light,1
+volte,1,290,Örebro,10000000,2660,true,true,Jep CJ,1,18,WINTER,light,4
+volte,8,610,Solvalla,25000000,3140,true,true,Kol Lu,16,28,WINTER,light,4
+volte,8,2280,Solvalla,20000000,3160,true,true,Kol Lu,4,14,WINTER,light,2

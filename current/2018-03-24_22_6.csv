@@ -1,0 +1,16 @@
+StartMethod,StartNumber,Odds,Track,Firstprize,Distance,Front,Back,Driver,LastPlace,LastStart,Season,TrackCondition,Place
+auto,1,2350,Mantorp,12500000,2140,true,true,Eri Ki,4,99,SPRING,light,0
+auto,2,500,Mantorp,12500000,2140,true,true,Hei Ve,7,10,SPRING,light,0
+auto,3,2144,Mantorp,12500000,2140,true,true,Rie Id,4,14,SPRING,light,0
+auto,4,1066,Mantorp,12500000,2140,true,true,And MJ,6,10,SPRING,light,0
+auto,5,1166,Mantorp,12500000,2140,true,true,Unt Jo,7,14,SPRING,light,0
+auto,6,941,Mantorp,12500000,2140,true,true,Jep CJ,16,14,SPRING,light,0
+auto,7,2240,Mantorp,12500000,2140,true,true,Jan To,2,10,SPRING,light,0
+auto,8,2722,Mantorp,12500000,2140,true,true,Adi Er,3,10,SPRING,light,0
+auto,9,1014,Mantorp,12500000,2140,true,true,Ing Pe,3,14,SPRING,light,0
+auto,10,1639,Mantorp,12500000,2140,true,true,Kih Ör,1,14,SPRING,light,0
+auto,11,1183,Mantorp,12500000,2140,true,true,Sjö Cl,1,14,SPRING,light,0
+auto,12,378,Mantorp,12500000,2140,true,true,Unt Pe,1,49,SPRING,light,0
+auto,13,2584,Mantorp,12500000,2140,true,true,Uhr Th,7,10,SPRING,light,0
+auto,14,2116,Mantorp,12500000,2140,true,true,Sed Li,3,10,SPRING,light,0
+auto,15,0,Mantorp,12500000,2140,true,true,Söd St,2,39,SPRING,light,0

@@ -1,0 +1,27 @@
+StartMethod,StartNumber,Odds,Track,Firstprize,Distance,Front,Back,Driver,LastPlace,LastStart,Season,TrackCondition,Place
+volte,11,3240,Mantorp,5000000,2140,true,true,Jep CJ,16,11,SUMMER,light,7
+volte,2,3440,Mantorp,5000000,2140,true,true,Jep CJ,7,43,SUMMER,light,2
+auto,2,2510,Axevalla,2000000,2140,true,true,Sun JL,2,66,AUTUMN,light,4
+volte,9,680,Årjäng,5000000,2140,true,true,Jep CJ,4,16,AUTUMN,light,1
+auto,2,1370,Åby,5000000,2140,true,true,Jep CJ,1,25,AUTUMN,light,7
+auto,9,330,Färjestad,3500000,2140,true,true,Ohl Ul,7,31,WINTER,light,1
+volte,6,420,Örebro,3500000,2160,true,true,Jep CJ,1,14,WINTER,light,2
+auto,2,540,Axevalla,3500000,2140,true,true,Jep CJ,2,23,WINTER,dead,4
+auto,5,1970,Axevalla,5000000,2140,true,true,Jak Ma,4,70,SPRING,light,8
+auto,7,2230,Eskilstuna,5000000,2140,true,true,Jep CJ,8,13,SPRING,light,7
+volte,3,310,Färjestad,3000000,2640,true,true,Jep CJ,7,20,SPRING,light,3
+volte,3,3690,Färjestad,5000000,2160,true,true,Jep CJ,3,49,SUMMER,light,8
+volte,4,1100,Lindesberg,5000000,2160,true,true,Jep CJ,8,12,SUMMER,light,1
+auto,6,4870,Axevalla,5000000,2640,false,false,Jep CJ,1,20,SUMMER,light,4
+volte,1,590,Färjestad,2000000,2160,true,true,Jep CJ,4,318,SPRING,light,5
+auto,9,910,Axevalla,2500000,2140,true,false,Ohl Ul,5,22,SUMMER,light,4
+auto,9,4200,Åmål,10000000,2080,true,true,Ohl Ul,4,8,SUMMER,light,6
+auto,2,1380,Färjestad,2000000,2140,true,true,Jep CJ,6,38,SUMMER,light,7
+volte,7,2690,Färjestad,3000000,2160,true,false,Jep CJ,7,16,SUMMER,light,4
+auto,9,390,Färjestad,2000000,2140,true,false,Jep CJ,4,14,AUTUMN,light,3
+auto,5,180,Mantorp,2000000,1640,true,false,Jep CJ,3,12,AUTUMN,light,1
+volte,5,330,Färjestad,3000000,2160,true,true,Jep CJ,1,16,AUTUMN,light,1
+auto,11,2080,Åby,10000000,2140,true,false,Ohl Ul,1,12,AUTUMN,light,6
+auto,9,660,Jägersro,10000000,2140,true,false,And OJ,6,14,AUTUMN,light,2
+auto,8,1730,Solvalla,10000000,2140,true,false,Jep CJ,2,11,AUTUMN,light,5
+auto,6,960,Solvalla,6000000,2140,true,false,Jep CJ,5,14,AUTUMN,dead,2

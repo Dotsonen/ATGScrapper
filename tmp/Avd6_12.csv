@@ -1,0 +1,20 @@
+StartMethod,StartNumber,Odds,Track,Firstprize,Distance,Front,Back,Driver,LastPlace,LastStart,Season,TrackCondition,Place
+volte,4,200,Eskilstuna,2000000,2140,true,true,Nor PG,16,88,AUTUMN,light,1
+volte,2,190,Solvalla,4000000,2140,true,true,Nor PG,1,15,AUTUMN,dead,1
+auto,1,290,Solvalla,5000000,2140,true,true,Nor PG,1,21,AUTUMN,light,1
+auto,7,340,Solvalla,10000000,2140,true,true,Nor PG,1,60,WINTER,light,2
+auto,8,410,Solvalla,30000000,2140,true,true,Nor PG,2,13,WINTER,light,4
+auto,8,2220,Solvalla,30000000,2140,true,true,Nor PG,4,32,SPRING,light,2
+auto,9,940,Solvalla,30000000,2140,true,true,Nor PG,2,16,SPRING,light,3
+auto,3,990,Gävle,10000000,2140,true,true,Nor PG,3,14,SPRING,light,7
+auto,2,240,Åby,8000000,2140,true,true,Adi Er,7,13,SPRING,light,2
+auto,8,530,Halmstad,7500000,1609,true,true,Adi Er,16,44,SUMMER,light,7
+auto,3,260,Lindesberg,10000000,2140,true,true,Adi Er,7,9,SUMMER,light,1
+auto,4,930,Mantorp,7000000,2140,true,true,Adi Er,1,26,SUMMER,light,3
+auto,10,640,Jägersro,10000000,2140,false,true,Adi Er,3,23,SUMMER,light,4
+auto,4,1510,Solvalla,10000000,2140,true,true,Nor PG,16,11,AUTUMN,light,4
+auto,12,8590,Eskilstuna,80000000,2140,false,true,Nor PG,4,14,AUTUMN,light,6
+auto,1,1440,Solvalla,10000000,2140,true,true,Nor PG,6,65,WINTER,dead,3
+auto,1,1720,Åby,12500000,1640,true,true,Nor PG,3,18,WINTER,light,3
+volte,5,370,Solvalla,7000000,2160,true,true,Nor PG,3,17,WINTER,light,2
+volte,6,2240,Eskilstuna,12500000,2140,true,true,Wid Ka,2,18,SPRING,light,7

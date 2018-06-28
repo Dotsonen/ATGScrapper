@@ -1,0 +1,9 @@
+StartMethod,StartNumber,Odds,Track,Firstprize,Distance,Front,Back,Driver,LastPlace,LastStart,Season,TrackCondition,Place
+volte,9,270,Solvalla,4000000,2140,true,true,Kih Ör,16,17,AUTUMN,light,1
+volte,1,130,Solvalla,3000000,2140,true,true,Kih Ör,1,16,AUTUMN,light,1
+volte,4,180,Örebro,10000000,2640,true,true,Kih Ör,1,22,AUTUMN,light,5
+auto,6,200,Solvalla,3500000,2140,true,true,Aik Pa,5,50,WINTER,light,7
+auto,1,260,Solvalla,5000000,2140,true,true,Kih Ör,7,16,WINTER,dead,1
+auto,3,240,Solvalla,6000000,2140,true,true,Kih Ör,1,22,WINTER,light,7
+auto,10,160,Solvalla,4000000,2140,true,true,Kih Ör,7,13,WINTER,light,1
+auto,9,110,Solvalla,4000000,2140,true,true,Kih Ör,1,25,WINTER,light,1

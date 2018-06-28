@@ -1,0 +1,16 @@
+StartMethod,StartNumber,Odds,Track,Firstprize,Distance,Front,Back,Driver,LastPlace,LastStart,Season,TrackCondition,Place
+auto,10,960,Åby,6000000,1640,true,true,Eri Ch,16,23,SPRING,dead,3
+auto,3,500,Åby,3000000,1640,true,true,Tak Jo,3,20,SPRING,light,2
+volte,9,210,Åby,3000000,2640,true,false,Eri Ch,2,43,SPRING,light,1
+volte,3,510,Solvalla,15000000,2640,true,false,Adi Er,1,17,SPRING,light,7
+auto,8,1050,Bergsåker,7500000,2140,true,true,Wid Ka,7,115,AUTUMN,dead,5
+auto,2,700,Solvalla,10000000,2140,true,true,Kyl Os,5,11,AUTUMN,light,3
+auto,2,490,Åby,10000000,2140,false,false,Kol Ad,3,13,AUTUMN,light,4
+volte,6,960,Mantorp,10000000,3640,true,true,Ohl Ul,16,12,AUTUMN,light,6
+auto,4,570,Bergsåker,5000000,2140,true,true,Ohl Ul,6,10,WINTER,light,1
+volte,5,2170,Solvalla,20000000,3160,true,true,Jan To,1,20,WINTER,dead,7
+auto,2,300,Solvalla,6000000,1640,true,true,Ohl Ul,7,15,WINTER,light,1
+auto,12,510,Solvalla,6000000,2140,true,true,Ohl Ul,1,7,WINTER,light,7
+volte,2,500,Bollnäs,10000000,2140,true,true,Ohl Ul,7,11,WINTER,light,6
+volte,10,3640,Solvalla,25000000,3140,true,true,Jan To,6,13,WINTER,light,7
+volte,3,5770,Solvalla,20000000,2160,true,true,Ohl Ul,7,14,WINTER,light,1

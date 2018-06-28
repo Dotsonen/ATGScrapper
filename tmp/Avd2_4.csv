@@ -1,0 +1,21 @@
+StartMethod,StartNumber,Odds,Track,Firstprize,Distance,Front,Back,Driver,LastPlace,LastStart,Season,TrackCondition,Place
+auto,6,1460,Färjestad,1700000,2140,true,true,Jak Ma,16,12,SPRING,light,6
+volte,4,490,Axevalla,2000000,2140,true,true,And MJ,6,15,SPRING,light,1
+volte,5,780,Axevalla,2000000,2160,true,true,And MJ,1,11,SPRING,light,1
+volte,4,540,Åby,2500000,2140,true,true,And MJ,1,12,SPRING,light,2
+volte,2,280,Vaggeryd,5000000,2140,true,true,And MJ,2,17,SPRING,light,2
+auto,10,340,Axevalla,1000000,2140,true,true,And MJ,2,44,SUMMER,light,1
+volte,4,900,Axevalla,10000000,2140,false,false,And MJ,1,19,SUMMER,light,2
+volte,7,310,Solänget,2500000,1660,false,false,And MJ,2,48,AUTUMN,light,7
+auto,10,560,Mantorp,3000000,2140,false,false,Eng Pe,7,16,AUTUMN,light,1
+volte,7,560,Åby,10000000,2640,false,false,And MJ,1,19,AUTUMN,light,6
+volte,5,280,Örebro,2500000,2160,false,false,And MJ,6,7,AUTUMN,light,3
+volte,4,650,Åby,6000000,2640,false,false,And MJ,3,11,AUTUMN,light,3
+auto,7,960,Solvalla,3000000,2140,false,false,Eng Pe,3,24,AUTUMN,light,7
+auto,9,370,Axevalla,2000000,2140,true,true,Lau Je,7,10,WINTER,dead,6
+volte,1,390,Färjestad,5000000,2140,true,true,And MJ,6,13,WINTER,dead,1
+volte,3,250,Örebro,3500000,2140,true,true,And MJ,1,24,WINTER,light,2
+volte,3,930,Romme,10000000,2160,true,true,And MJ,2,9,WINTER,light,5
+volte,3,390,Åby,10000000,2160,true,true,Adi Er,5,14,WINTER,light,1
+auto,4,560,Axevalla,12500000,2140,true,true,Sve Li,1,14,WINTER,light,7
+auto,5,1590,Åby,12500000,2140,true,true,And MJ,7,25,SPRING,light,6

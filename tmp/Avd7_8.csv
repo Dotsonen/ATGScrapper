@@ -1,0 +1,13 @@
+StartMethod,StartNumber,Odds,Track,Firstprize,Distance,Front,Back,Driver,LastPlace,LastStart,Season,TrackCondition,Place
+volte,5,220,Gävle,1500000,2140,true,true,Ohl Ul,16,48,AUTUMN,light,1
+auto,3,130,Eskilstuna,1000000,2140,true,true,Kon Jo,1,23,AUTUMN,light,1
+volte,7,150,Solvalla,2000000,2140,true,true,Kon Jo,1,85,WINTER,dead,1
+auto,5,150,Solvalla,3000000,2140,true,true,Kon Jo,1,75,SPRING,light,1
+auto,6,230,Solvalla,2000000,1640,true,true,Kon Jo,1,29,SPRING,light,7
+auto,5,150,Lindesberg,1500000,2140,true,true,Kon Jo,16,36,SUMMER,light,1
+auto,9,270,Solvalla,4000000,2640,true,true,Kon Jo,1,34,SUMMER,light,2
+auto,11,340,Solvalla,4000000,2640,true,true,Kon Jo,2,14,AUTUMN,light,2
+volte,8,610,Solvalla,6000000,2140,true,true,Kon Jo,2,119,WINTER,light,1
+auto,12,190,Solvalla,6000000,2140,true,true,Kon Jo,1,14,WINTER,dead,2
+volte,5,170,Solvalla,6000000,2640,true,true,Kon Jo,2,13,WINTER,light,1
+auto,4,200,Bergsåker,10000000,2140,true,true,Kon Jo,1,19,WINTER,light,1

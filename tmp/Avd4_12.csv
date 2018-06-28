@@ -1,0 +1,8 @@
+StartMethod,StartNumber,Odds,Track,Firstprize,Distance,Front,Back,Driver,LastPlace,LastStart,Season,TrackCondition,Place
+volte,6,330,Åby,2500000,2140,true,true,Unt Pe,3,17,SUMMER,light,1
+volte,5,270,Halmstad,1500000,2160,true,true,Unt Pe,16,49,AUTUMN,light,1
+volte,6,200,Jägersro,3000000,2160,true,true,Unt Pe,1,14,AUTUMN,light,1
+volte,5,200,Åby,2500000,2140,true,true,Unt Pe,1,30,AUTUMN,light,4
+auto,1,350,Åby,3000000,2140,true,true,Unt Pe,4,13,AUTUMN,light,2
+auto,6,200,Åby,3000000,2640,true,true,Unt Pe,2,43,WINTER,light,3
+volte,11,680,Åby,3500000,2640,true,true,Unt Pe,16,18,SPRING,dead,3

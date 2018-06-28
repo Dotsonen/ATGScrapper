@@ -1,0 +1,13 @@
+StartMethod,StartNumber,Odds,Track,Firstprize,Distance,Front,Back,Driver,LastPlace,LastStart,Season,TrackCondition,Place
+volte,8,1230,Mantorp,1500000,2140,true,true,Sva Os,16,203,WINTER,dead,3
+volte,2,1280,Mantorp,1500000,2140,true,true,Sva Os,3,28,WINTER,light,1
+volte,3,320,Mantorp,1500000,2140,true,true,Sva Os,1,14,WINTER,light,2
+volte,2,250,Åby,3000000,2640,true,true,Sva Os,2,16,SPRING,dead,1
+volte,6,1290,Mantorp,10000000,2640,false,false,Sva Os,1,17,SPRING,light,1
+auto,5,1660,Romme,10000000,2640,false,false,Sva Os,1,21,SPRING,light,6
+auto,7,3570,Åby,10000000,2140,false,false,Sva Os,6,13,SPRING,light,5
+volte,8,730,Åby,10000000,2140,false,false,Sva Os,5,14,SPRING,light,7
+auto,1,920,Gävle,10000000,2140,false,false,Sva Os,7,7,SPRING,light,6
+volte,3,1610,Mantorp,4000000,3140,true,true,Sva Os,6,142,AUTUMN,light,7
+auto,5,1120,Mantorp,3500000,2640,true,true,Jak Ma,7,105,WINTER,light,4
+auto,4,790,Mantorp,3500000,2140,true,true,Sva Os,4,11,WINTER,light,4

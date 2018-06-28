@@ -1,0 +1,17 @@
+StartMethod,StartNumber,Odds,Track,Firstprize,Distance,Front,Back,Driver,LastPlace,LastStart,Season,TrackCondition,Place
+auto,1,180,Åby,5000000,2140,true,true,Unt Pe,1,15,SUMMER,light,1
+auto,2,410,Åby,12500000,2140,false,false,Unt Pe,1,19,SUMMER,light,5
+auto,7,680,Jägersro,5000000,2140,false,false,Unt Pe,5,34,AUTUMN,light,7
+auto,11,2030,Jägersro,5000000,2140,true,true,Ing Pe,7,60,WINTER,light,7
+auto,2,320,Jägersro,5000000,2140,true,true,Ing Pe,7,17,WINTER,light,7
+auto,6,590,Halmstad,3000000,2140,true,true,Unt Pe,7,82,SPRING,light,2
+auto,1,350,Halmstad,10000000,2140,true,true,Unt Pe,2,14,SPRING,light,1
+auto,9,310,Åby,8000000,2140,true,true,Unt Pe,1,32,SPRING,light,3
+auto,4,640,Vaggeryd,6000000,1640,false,true,Unt Pe,16,32,SUMMER,light,2
+auto,7,1160,Axevalla,5000000,2640,false,true,Unt Pe,16,16,SUMMER,light,7
+auto,8,1200,Halmstad,4000000,2140,true,true,Unt Pe,7,66,AUTUMN,light,5
+auto,5,250,Åby,3500000,2640,true,true,Unt Pe,16,15,AUTUMN,light,1
+auto,12,180,Eskilstuna,3000000,2140,true,true,Unt Pe,16,17,AUTUMN,light,1
+volte,5,250,Halmstad,10000000,2160,true,true,Unt Pe,16,31,WINTER,light,1
+volte,6,170,Jägersro,12500000,2160,true,true,Unt Pe,1,14,WINTER,light,4
+volte,6,140,Åby,12500000,2160,true,true,Unt Pe,4,21,WINTER,light,1

@@ -1,0 +1,21 @@
+StartMethod,StartNumber,Odds,Track,Firstprize,Distance,Front,Back,Driver,LastPlace,LastStart,Season,TrackCondition,Place
+volte,3,1110,Örebro,2000000,2140,true,true,Kyl Os,16,23,SPRING,light,5
+volte,4,1140,Örebro,2000000,2140,true,true,Kyl Os,5,21,SUMMER,light,3
+volte,1,250,Lindesberg,1000000,2140,true,true,Kyl Os,3,9,SUMMER,light,1
+volte,4,320,Lindesberg,3000000,2140,true,true,Kyl Os,1,22,SUMMER,light,1
+auto,6,2580,Solvalla,5000000,2140,true,true,Kyl Os,1,17,SUMMER,light,8
+auto,8,2790,Örebro,5000000,2100,true,true,Kyl Os,8,29,AUTUMN,light,2
+auto,5,540,Romme,5000000,2140,true,true,Kyl Os,2,8,AUTUMN,light,6
+auto,10,540,Halmstad,2000000,2140,true,true,Dal Th,6,94,WINTER,light,5
+volte,7,11320,Jägersro,10000000,2640,true,true,Dal Th,16,15,WINTER,light,7
+auto,2,500,Örebro,2500000,2609,true,true,Dal Th,7,74,SPRING,light,1
+volte,4,1770,Färjestad,10000000,2140,true,true,Kyl Os,1,15,SPRING,light,2
+volte,3,270,Eskilstuna,2500000,2640,true,true,Kyl Os,2,32,SPRING,light,5
+auto,9,1540,Solvalla,10000000,2640,true,true,Kyl Os,5,22,SUMMER,light,5
+auto,1,880,Eskilstuna,2000000,2140,false,true,Lin Er,5,90,AUTUMN,light,7
+auto,3,260,Eskilstuna,1000000,1640,true,true,Dal Th,7,21,AUTUMN,light,4
+auto,4,270,Färjestad,2500000,2140,false,false,Wid Ka,4,17,AUTUMN,light,3
+auto,12,310,Färjestad,1700000,2140,false,true,Wid Ka,3,24,AUTUMN,light,2
+auto,1,440,Solvalla,3500000,1640,true,true,Wid Ka,2,34,WINTER,light,7
+auto,12,1400,Örebro,3000000,2100,true,true,Dal Th,7,67,WINTER,light,2
+auto,6,320,Axevalla,2500000,2140,true,true,Dal Th,2,11,WINTER,light,1

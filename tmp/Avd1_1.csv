@@ -1,0 +1,25 @@
+StartMethod,StartNumber,Odds,Track,Firstprize,Distance,Front,Back,Driver,LastPlace,LastStart,Season,TrackCondition,Place
+auto,7,1560,Eskilstuna,2000000,2140,true,true,Len Pe,16,71,AUTUMN,light,2
+volte,9,330,Mantorp,1500000,2140,true,true,Sva Os,2,13,WINTER,light,3
+volte,3,1170,Örebro,2500000,2140,true,true,Sva Os,3,11,WINTER,light,4
+volte,1,390,Mantorp,1500000,2160,true,true,Wid Ka,4,17,WINTER,dead,8
+volte,5,660,Mantorp,1800000,2140,true,true,Jep CJ,8,7,WINTER,light,2
+volte,6,1280,Solvalla,3000000,2140,true,true,Sva Os,2,13,WINTER,light,7
+auto,4,1430,Mantorp,2000000,2140,true,true,Sva Os,7,8,WINTER,light,7
+volte,1,890,Mantorp,2000000,2140,true,true,Sva Os,7,14,WINTER,light,1
+auto,7,1090,Solvalla,3000000,2140,true,true,Ohl Ul,1,18,SPRING,light,1
+volte,1,1430,Mantorp,10000000,2640,false,true,Ohl Ul,1,15,SPRING,light,3
+auto,8,5760,Romme,10000000,2640,false,true,Eri Ki,3,21,SPRING,light,7
+auto,9,760,Vaggeryd,3000000,2640,false,true,Eri Ki,7,14,SPRING,light,2
+volte,3,440,Örebro,3000000,2640,true,true,Jep CJ,2,18,SPRING,light,2
+auto,11,5310,Mantorp,10000000,2140,true,true,Ohl Ul,2,16,SUMMER,light,7
+volte,2,380,Eskilstuna,2500000,2640,true,true,Eri Ki,7,9,SUMMER,light,1
+auto,4,350,Arvika,1800000,2500,true,true,Lin Kr,1,14,SUMMER,light,1
+volte,2,1260,Lindesberg,6000000,3160,true,true,Sva Os,1,9,SUMMER,light,2
+auto,9,1180,Mantorp,4000000,2140,true,true,Sed Li,16,43,AUTUMN,light,5
+auto,6,450,Mantorp,2500000,2640,true,true,Sva Os,5,12,AUTUMN,light,6
+volte,2,1900,Örebro,2500000,2640,true,true,Sva Os,16,41,AUTUMN,light,6
+volte,1,3680,Solvalla,3500000,3160,true,true,Sva Os,6,13,WINTER,light,7
+auto,9,510,Mantorp,2500000,2140,true,true,Sva Os,16,7,WINTER,light,1
+volte,9,720,Solvalla,6000000,2140,true,true,Sva Os,1,15,WINTER,light,7
+auto,1,1760,Mantorp,3500000,2640,true,true,Sva Os,7,16,WINTER,light,7
